@@ -1,0 +1,12 @@
+The data structure used : adjacency list.
+
+
+
+
+math.h header file is used in the implementation
+ 
+takeaway from the assignment: nothing becomes easy until we do it.:)
+
+
+
+

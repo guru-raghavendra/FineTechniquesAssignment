@@ -1,0 +1,7 @@
+The data structure used:
+	double linked list;
+Compilation of code:
+	gcc .\A3_client_PES1201801994.c .\A3_impl_PES1201801994.c .\A3_header_PES1201801994.h
+	cat input.txt | ./a
+Take away from the assignment:
+	try until u get.

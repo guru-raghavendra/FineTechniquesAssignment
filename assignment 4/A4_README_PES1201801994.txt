@@ -1,0 +1,15 @@
+
+
+
+
+Hard disk will have the file which will have the offsets corresponding to the nodes from the relative start of a page allocated from the OS i.e the root, which is stored and retrieved whenever we operate on the Binary search tree.
+
+A program usually loses it's result once it terminates, so to store the data structure and retrieve it for the next time when you are running the program.
+
+The free head will have the offset value to the free node pointer where a new key can be inserted according to the predicate of the binary search tree. 
+
+When a key is deleted, the free head points towards the free location after it's deletion.
+
+Each time a deletion or an insertion occurs the file is updated accordingly.
+
+I have used the functions and structures according given in assignment_4.h header file. 
